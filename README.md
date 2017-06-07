@@ -18,18 +18,6 @@ The code will look like the following:
 ```
 func buildShapeLayer() 
   { 
-    shapeLayer = CAShapeLayer() 
-    shapeLayer.bounds = CGRect(x: 0.0, y: 0.0, 
-                               width: 60.0, 
-                               height: 60.0) 
-    shapeLayer.position =  CGPoint(x: 334.0, 
-                                   y: 45) 
-    shapeLayer.shadowColor = .white 
-    shapeLayer.shadowOffset = CGSize(width: 0,  
-              height: 0) 
-    shapeLayer.shadowRadius = 15.0 
-    shapeLayer.shadowOpacity = 1.0 
-
     // CAShapeLayer properties 
     shapeLayer.fillColor = .transparentGold 
     shapeLayer.strokeColor = .niceRed 
