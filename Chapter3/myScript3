@@ -1,0 +1,3 @@
+#!/bin/bash 
+touch ~/Desktop/ItWorks3.txt 
+echo "This actually works!" > ~/Desktop/ItWorks3.txt
