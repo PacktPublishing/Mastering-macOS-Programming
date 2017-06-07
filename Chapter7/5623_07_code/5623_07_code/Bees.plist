@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Bees.plist
+   5623_07_code
+
+   Created by Stuart Grimshaw on 25/10/16.
+   Copyright (c) 2016 Stuart Grimshaw. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+      <key>BeesData</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>Bowie</string>
+          <key>busy</key>
+          <true/>
+          <key>shoeColor</key>
+          <string>red</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>Zappa</string>
+          <key>busy</key>
+          <false/>
+          <key>shoeColor</key>
+          <string>brown</string>
+        </dict>
+      </array>
+    </dict>
+</plist>
