@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11542" systemVersion="16A319" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Person" representedClassName="Person" syncable="YES" codeGenerationType="class">
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <attribute name="rank" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="shirtColor" attributeType="String" syncable="YES"/>
+        <relationship name="subordinates" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Person" inverseName="superior" inverseEntity="Person" syncable="YES"/>
+        <relationship name="superior" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Person" inverseName="subordinates" inverseEntity="Person" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Person" positionX="-36" positionY="9" width="128" height="120"/>
+    </elements>
+</model>
