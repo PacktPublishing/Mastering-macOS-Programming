@@ -38,6 +38,3 @@ func buildShapeLayer()
 * [Building iOS 10 Applications with Swift [Video]](https://www.packtpub.com/application-development/building-ios-10-applications-swift-video?utm_source=github&utm_medium=repository&utm_campaign=9781785880988)
 
 * [Mastering Swift 3 - Linux](https://www.packtpub.com/application-development/mastering-swift-3-linux?utm_source=github&utm_medium=repository&utm_campaign=9781786461414)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
