@@ -15,7 +15,7 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 
 The code will look like the following:
-```
+```swift
 func buildShapeLayer() 
   { 
     // CAShapeLayer properties 
