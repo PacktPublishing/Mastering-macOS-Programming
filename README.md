@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-macos-programming/9781786461698)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786461692).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Mastering macOS Programming
 
 This is the code repository for [Mastering macOS Programming](https://www.packtpub.com/application-development/mastering-macos-programming?utm_source=github&utm_medium=repository&utm_campaign=9781786461698), published by [Packt](https://www.packtpub.com/?utm_source=github). 
