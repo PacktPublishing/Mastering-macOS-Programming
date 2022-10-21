@@ -43,7 +43,3 @@ func buildShapeLayer()
 * [Building iOS 10 Applications with Swift [Video]](https://www.packtpub.com/application-development/building-ios-10-applications-swift-video?utm_source=github&utm_medium=repository&utm_campaign=9781785880988)
 
 * [Mastering Swift 3 - Linux](https://www.packtpub.com/application-development/mastering-swift-3-linux?utm_source=github&utm_medium=repository&utm_campaign=9781786461414)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781786461698">https://packt.link/free-ebook/9781786461698 </a> </p>
